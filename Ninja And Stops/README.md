@@ -1,6 +1,6 @@
-#Ninja And Stops
-##Hard
-###Problem statement
+# Ninja And Stops
+## Hard
+### Problem statement
 Ninja wants to travel from his house to a given destination, which is ‘X’ miles from his house. Along the way, he needs to fill gas in his vehicle. He knows there are ‘Y’ stations in his way. He also knows the distance between the station and his house, and how many liters of gas that particular station has.
 Ninja starts his journey, with an infinite capacity of the tank filled with ‘Z’ liters of starting fuel. Suppose his vehicle uses 1 liter of gas for every mile, and ninja can stop at any gas station, transfer all the available gas at that station and then move ahead.
 Now, you need to find out what is the minimum number of stops Ninja must make to reach his desired destination.
