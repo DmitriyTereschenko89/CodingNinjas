@@ -2,7 +2,7 @@
 
 Solution solution = new();
 int tests = int.Parse(Console.ReadLine());
-List<int> answers = new();
+List<int> answers = [];
 for (int t = 0; t < tests; t++)
 {
 	string[] datas = Console.ReadLine().Trim().Split(" ");
