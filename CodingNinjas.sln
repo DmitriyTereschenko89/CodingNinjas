@@ -29,7 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Pattern", "Number Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equal Candies", "Equal Candies\Equal Candies.csproj", "{DC7C02EE-776E-4DB9-A2EB-11B13A26AB8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Possible Words From A Phone Number", "Possible Words From A Phone Number\Possible Words From A Phone Number.csproj", "{83A3427C-D7BA-414F-8209-A4D1B56ACFCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Possible Words From A Phone Number", "Possible Words From A Phone Number\Possible Words From A Phone Number.csproj", "{83A3427C-D7BA-414F-8209-A4D1B56ACFCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel Floors", "Hotel Floors\Hotel Floors.csproj", "{BCE42037-B878-4698-A329-70B09B9B5CBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Non-Decreasing Array", "Non-Decreasing Array\Non-Decreasing Array.csproj", "{11C8BD94-4690-4964-AEA1-F7A4686B1BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD Sum", "GCD Sum\GCD Sum.csproj", "{E86E5E94-DA2E-4FB8-B9F1-C2CDF6F09A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{83A3427C-D7BA-414F-8209-A4D1B56ACFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A3427C-D7BA-414F-8209-A4D1B56ACFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A3427C-D7BA-414F-8209-A4D1B56ACFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE42037-B878-4698-A329-70B09B9B5CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE42037-B878-4698-A329-70B09B9B5CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE42037-B878-4698-A329-70B09B9B5CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE42037-B878-4698-A329-70B09B9B5CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C8BD94-4690-4964-AEA1-F7A4686B1BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C8BD94-4690-4964-AEA1-F7A4686B1BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C8BD94-4690-4964-AEA1-F7A4686B1BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C8BD94-4690-4964-AEA1-F7A4686B1BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86E5E94-DA2E-4FB8-B9F1-C2CDF6F09A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86E5E94-DA2E-4FB8-B9F1-C2CDF6F09A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86E5E94-DA2E-4FB8-B9F1-C2CDF6F09A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86E5E94-DA2E-4FB8-B9F1-C2CDF6F09A34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
