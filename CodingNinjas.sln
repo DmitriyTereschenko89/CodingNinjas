@@ -45,11 +45,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Take Away The Bottle", "Tak
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelling Salesman Problem", "Travelling Salesman Problem\Travelling Salesman Problem.csproj", "{F92EDF62-029C-42E1-A1B1-462697ED5076}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximize Xor", "Maximize Xor\Maximize Xor.csproj", "{D67FCD7E-3A51-4471-9AFE-38E9E4842B48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximize Xor", "Maximize Xor\Maximize Xor.csproj", "{D67FCD7E-3A51-4471-9AFE-38E9E4842B48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-overlapping Intervals", "Non-overlapping Intervals\Non-overlapping Intervals.csproj", "{07081304-309D-42FB-8FE1-591F1B3172BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Non-overlapping Intervals", "Non-overlapping Intervals\Non-overlapping Intervals.csproj", "{07081304-309D-42FB-8FE1-591F1B3172BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Time in Wormhole Network", "Minimum Time in Wormhole Network\Minimum Time in Wormhole Network.csproj", "{13F28428-0B64-47E2-92DD-D49F86680A96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Time in Wormhole Network", "Minimum Time in Wormhole Network\Minimum Time in Wormhole Network.csproj", "{13F28428-0B64-47E2-92DD-D49F86680A96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Four Divisors", "Four Divisors\Four Divisors.csproj", "{B96314AF-21B2-4DF6-9CC8-810B20001FE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isomorphic Strings", "Isomorphic Strings\Isomorphic Strings.csproj", "{9462EF67-218D-4368-8952-68C7AE72920F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit Insertion", "Bit Insertion\Bit Insertion.csproj", "{A1C39091-3D03-4AC4-AE18-6D41D538AFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predict the Winner", "Predict the Winner\Predict the Winner.csproj", "{6D8F42F4-9169-4D1A-B316-9557B1136E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strange Numbers", "Strange Numbers\Strange Numbers.csproj", "{C6A83138-A863-430A-B64C-888C289F841E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +163,26 @@ Global
 		{13F28428-0B64-47E2-92DD-D49F86680A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13F28428-0B64-47E2-92DD-D49F86680A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13F28428-0B64-47E2-92DD-D49F86680A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96314AF-21B2-4DF6-9CC8-810B20001FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96314AF-21B2-4DF6-9CC8-810B20001FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96314AF-21B2-4DF6-9CC8-810B20001FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96314AF-21B2-4DF6-9CC8-810B20001FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9462EF67-218D-4368-8952-68C7AE72920F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9462EF67-218D-4368-8952-68C7AE72920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9462EF67-218D-4368-8952-68C7AE72920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9462EF67-218D-4368-8952-68C7AE72920F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C39091-3D03-4AC4-AE18-6D41D538AFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C39091-3D03-4AC4-AE18-6D41D538AFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C39091-3D03-4AC4-AE18-6D41D538AFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C39091-3D03-4AC4-AE18-6D41D538AFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8F42F4-9169-4D1A-B316-9557B1136E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8F42F4-9169-4D1A-B316-9557B1136E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8F42F4-9169-4D1A-B316-9557B1136E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8F42F4-9169-4D1A-B316-9557B1136E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A83138-A863-430A-B64C-888C289F841E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A83138-A863-430A-B64C-888C289F841E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A83138-A863-430A-B64C-888C289F841E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A83138-A863-430A-B64C-888C289F841E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
