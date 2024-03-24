@@ -55,11 +55,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Four Divisors", "Four Divis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isomorphic Strings", "Isomorphic Strings\Isomorphic Strings.csproj", "{9462EF67-218D-4368-8952-68C7AE72920F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit Insertion", "Bit Insertion\Bit Insertion.csproj", "{A1C39091-3D03-4AC4-AE18-6D41D538AFE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit Insertion", "Bit Insertion\Bit Insertion.csproj", "{A1C39091-3D03-4AC4-AE18-6D41D538AFE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predict the Winner", "Predict the Winner\Predict the Winner.csproj", "{6D8F42F4-9169-4D1A-B316-9557B1136E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predict the Winner", "Predict the Winner\Predict the Winner.csproj", "{6D8F42F4-9169-4D1A-B316-9557B1136E7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strange Numbers", "Strange Numbers\Strange Numbers.csproj", "{C6A83138-A863-430A-B64C-888C289F841E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strange Numbers", "Strange Numbers\Strange Numbers.csproj", "{C6A83138-A863-430A-B64C-888C289F841E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program to check the validity of a Password", "Program to check the validity of a Password\Program to check the validity of a Password.csproj", "{C6F977DA-EE28-4D4B-9DDC-BE9C5D2241B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking Robot Simulation", "Walking Robot Simulation\Walking Robot Simulation.csproj", "{385519EF-6329-40E3-8F4C-E021A513ED73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect Team", "Perfect Team\Perfect Team.csproj", "{CD29FA51-E3C9-45FF-9C7C-041E8BE24469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recover Tree from Pre Order traversal", "Recover Tree from Pre Order traversal\Recover Tree from Pre Order traversal.csproj", "{425B23EC-AC39-4177-A586-D294C16AE60B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +191,22 @@ Global
 		{C6A83138-A863-430A-B64C-888C289F841E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6A83138-A863-430A-B64C-888C289F841E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6A83138-A863-430A-B64C-888C289F841E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F977DA-EE28-4D4B-9DDC-BE9C5D2241B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F977DA-EE28-4D4B-9DDC-BE9C5D2241B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F977DA-EE28-4D4B-9DDC-BE9C5D2241B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F977DA-EE28-4D4B-9DDC-BE9C5D2241B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385519EF-6329-40E3-8F4C-E021A513ED73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385519EF-6329-40E3-8F4C-E021A513ED73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385519EF-6329-40E3-8F4C-E021A513ED73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385519EF-6329-40E3-8F4C-E021A513ED73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD29FA51-E3C9-45FF-9C7C-041E8BE24469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD29FA51-E3C9-45FF-9C7C-041E8BE24469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD29FA51-E3C9-45FF-9C7C-041E8BE24469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD29FA51-E3C9-45FF-9C7C-041E8BE24469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425B23EC-AC39-4177-A586-D294C16AE60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425B23EC-AC39-4177-A586-D294C16AE60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425B23EC-AC39-4177-A586-D294C16AE60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425B23EC-AC39-4177-A586-D294C16AE60B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
