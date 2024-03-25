@@ -63,11 +63,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strange Numbers", "Strange 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program to check the validity of a Password", "Program to check the validity of a Password\Program to check the validity of a Password.csproj", "{C6F977DA-EE28-4D4B-9DDC-BE9C5D2241B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking Robot Simulation", "Walking Robot Simulation\Walking Robot Simulation.csproj", "{385519EF-6329-40E3-8F4C-E021A513ED73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Walking Robot Simulation", "Walking Robot Simulation\Walking Robot Simulation.csproj", "{385519EF-6329-40E3-8F4C-E021A513ED73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect Team", "Perfect Team\Perfect Team.csproj", "{CD29FA51-E3C9-45FF-9C7C-041E8BE24469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perfect Team", "Perfect Team\Perfect Team.csproj", "{CD29FA51-E3C9-45FF-9C7C-041E8BE24469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recover Tree from Pre Order traversal", "Recover Tree from Pre Order traversal\Recover Tree from Pre Order traversal.csproj", "{425B23EC-AC39-4177-A586-D294C16AE60B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recover Tree from Pre Order traversal", "Recover Tree from Pre Order traversal\Recover Tree from Pre Order traversal.csproj", "{425B23EC-AC39-4177-A586-D294C16AE60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No Adjacent Same", "No Adjacent Same\No Adjacent Same.csproj", "{BE90763B-9E6B-401B-91C7-0AF94D416C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Repeating Substring", "Longest Repeating Substring\Longest Repeating Substring.csproj", "{CE6B8690-D9F7-4CEF-A30D-A3E9684589C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chocolate Bar", "Chocolate Bar\Chocolate Bar.csproj", "{094FE198-9B91-410D-B193-86B18F3636B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +213,18 @@ Global
 		{425B23EC-AC39-4177-A586-D294C16AE60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{425B23EC-AC39-4177-A586-D294C16AE60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{425B23EC-AC39-4177-A586-D294C16AE60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE90763B-9E6B-401B-91C7-0AF94D416C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE90763B-9E6B-401B-91C7-0AF94D416C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE90763B-9E6B-401B-91C7-0AF94D416C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE90763B-9E6B-401B-91C7-0AF94D416C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6B8690-D9F7-4CEF-A30D-A3E9684589C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6B8690-D9F7-4CEF-A30D-A3E9684589C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6B8690-D9F7-4CEF-A30D-A3E9684589C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6B8690-D9F7-4CEF-A30D-A3E9684589C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094FE198-9B91-410D-B193-86B18F3636B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094FE198-9B91-410D-B193-86B18F3636B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094FE198-9B91-410D-B193-86B18F3636B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094FE198-9B91-410D-B193-86B18F3636B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
